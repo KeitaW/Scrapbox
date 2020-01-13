@@ -136,4 +136,6 @@ dmypy.json
 ### Python Patch ###
 .venv/
 
+.code
+
 # End of https://www.gitignore.io/api/julia,python,jupyternotebook
